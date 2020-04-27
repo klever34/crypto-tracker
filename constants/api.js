@@ -1,0 +1,1 @@
+export const apiBaseUrl = 'https://min-api.cryptocompare.com/data/v4/all/exchanges/';
